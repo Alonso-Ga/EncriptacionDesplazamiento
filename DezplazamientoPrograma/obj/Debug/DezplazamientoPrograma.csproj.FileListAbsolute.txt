@@ -1,0 +1,7 @@
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\bin\Debug\DezplazamientoPrograma.exe.config
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\bin\Debug\DezplazamientoPrograma.exe
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\bin\Debug\DezplazamientoPrograma.pdb
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\obj\Debug\DezplazamientoPrograma.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\obj\Debug\DezplazamientoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\obj\Debug\DezplazamientoPrograma.exe
+C:\Users\Erick\source\repos\DezplazamientoPrograma\DezplazamientoPrograma\obj\Debug\DezplazamientoPrograma.pdb
